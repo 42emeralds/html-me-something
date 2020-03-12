@@ -1,0 +1,50 @@
+body {
+    background-image: url("images/IMG_20190918_191833.jpg");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-color: #ffffff;
+}
+
+header {
+    margin-top: 50px;
+    margin-bottom: 600px;
+}
+
+h1 {
+    font-family: 'Birdseye', sans-serif;
+    font-size: 50px;
+    color: white;
+    margin-bottom: 50px;
+}
+
+li {
+    font-family: 'Birdseye', sans-serif;
+    font-size: 30px;
+    color: white;
+}
+
+h2 {
+    font-family: 'Birdseye', sans-serif;
+    font-size: 50px;
+    padding-left: 40px;
+}
+
+p{
+    font-family: 'Birdseye', sans-serif;
+    padding-left: 40px;
+    padding-right: 50px;
+}
+
+a.link {
+    color: white;
+}
+
+#image {
+    width: 400px;
+    height: 533.717px;
+}
+
+figcaption {
+    font-family: 'Birdseye', sans-serif;
+    padding-bottom: 20px;
+}
